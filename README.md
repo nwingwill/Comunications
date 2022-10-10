@@ -13,7 +13,7 @@
   
 ## Navegacion
 
-- [ ] Ingresa.
+- [x] Ingresa.
   - [x]  Iniciar Session
   - [x]  Registrarme
   - [x]  Ir a Inicio
